@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 左傳附注
-#+DATE: 2015-09-23 09:40:13
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:15:48.766589
+#+PROPERTY: ID KR1e0077
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 左傳附注後録
 <pb:KR1e0077_WYG_006-1a>¶
 欽定四庫全書¶
 　左傳附注後録　　　　　明　陸粲　撰¶
@@ -182,4 +184,3 @@
 　¶
 　¶
 　左傳附注後録¶
-
